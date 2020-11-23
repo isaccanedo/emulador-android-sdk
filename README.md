@@ -1,5 +1,7 @@
 # Linha de comando para o Emulador Android SDK
 
+## Sem abrir o Android Studio, podemos listar os comandos abaixo para executar o Emulador Android SDK 
+
 ### Listar os AVD's
 
 ```
